@@ -12,4 +12,3 @@ Me llamo Angel, tengo 17 años y me gusta el Puig Castellar, me gusta ver partid
 !<img width="260" height="194" alt="image" src="https://github.com/user-attachments/assets/1470b441-6a56-4175-8467-be3fd829919b" />
 
  **Esas son las cosas que mas me gustan.** 
-
