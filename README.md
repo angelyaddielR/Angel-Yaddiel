@@ -1,5 +1,5 @@
 # Hola como estás
-Me llamo Angel, tengo 17 años y me gusta el Puig Castellar.
+Me llamo Angel, tengo 17 años y me gusta el Puig Castellar, me gusta ver partidos de beisbol.
 # Cosas que más me gustan del instituto.
 - El patio
 - La cantina
