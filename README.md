@@ -1,1 +1,1 @@
-# Encapçalat Hola como estás
+# Hola como estás
