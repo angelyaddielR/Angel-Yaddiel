@@ -13,7 +13,3 @@ Me llamo Angel, tengo 17 años y me gusta el Puig Castellar, me gusta ver partid
 
  **Esas son las cosas que mas me gustan.** 
 
-// Aquest és un bloc de codi
-exemple de funció () {
-// Exemple de codi
-}
