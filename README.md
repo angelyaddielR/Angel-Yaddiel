@@ -29,3 +29,15 @@ exemple de html() {
 </html>
 }
 ```
+
+```markdown
+// Aquest és un bloc de codi
+exemple de JavaScrip () {
+// let helado = "chocolate";
+if (helado === "chocolate") {
+  alert("¡Sí, amo el helado de chocolate!");
+} else {
+  alert("Awwww, pero mi favorito es el de chocolate...");
+}
+}
+```
