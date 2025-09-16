@@ -39,5 +39,4 @@ if (helado === "chocolate") {
 } else {
   alert("Awwww, pero mi favorito es el de chocolate...");
 }
-}
 ```
