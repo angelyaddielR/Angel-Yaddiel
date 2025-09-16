@@ -30,3 +30,6 @@ exemple de html() {
 }
 ```
 
+!<images.webp" />
+
+
